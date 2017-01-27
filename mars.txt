@@ -1,3 +1,4 @@
 Cold and dry, but everything is my favorite color
 The two moons are Phobos and Deimos
 Mars does not have very high humidity
+We added a different line in the other copy
